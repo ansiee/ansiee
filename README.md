@@ -2,9 +2,9 @@
 
 
 
-- 📚 | Técnico em Informática para Internet 2/3
-- 👩🏻‍💻 | Estudando HTML e CSS
-- 😄 | Pronomes Ela/dela
+- 🍡 | Técnico em Informática para Internet 2/3
+- 🍥 | Estudando HTML e CSS
+- 🍙 | Pronomes Ela/dela
 
 <div align="center">
   <a href="https://github.com/ansiee">
