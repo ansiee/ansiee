@@ -8,12 +8,12 @@
 <br/>
 <div align="center">
   <a href="https://github.com/ansiee">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ansiee&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansiee&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansiee&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansiee&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/107190603/179383947-40365baf-5687-431a-b0a2-1ced9bdb570d.png">
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://picasion.com/download/f148472999e39720a8128d5c15002bf1/">
   
   ##
   
