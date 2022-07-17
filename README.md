@@ -1,11 +1,11 @@
-###  Olaa, eu sou a Giovanna Oliveira ou Ansie, estudante de TI.
-
-
-
-- 🍡 | Técnico em Informática para Internet 2/3
-- 🍥 | Estudando HTML e CSS
+###  Olaa, eu sou a Giovanna Oliveira ou Ansie, estudante de TI!
+<br/>
+- 🍡 | Técnico em Informática para Internet 2/3 <br/>
+- 🍥 | Estudando HTML e CSS <br/>
 - 🍙 | Pronomes Ela/dela
-
+<br/>
+<br/>
+<br/>
 <div align="center">
   <a href="https://github.com/ansiee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansiee&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
@@ -13,8 +13,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="![download20220700002609](https://user-images.githubusercontent.com/107190603/179383947-40365baf-5687-431a-b0a2-1ced9bdb570d.png)
-">
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/107190603/179383947-40365baf-5687-431a-b0a2-1ced9bdb570d.png">
   
   ##
   
