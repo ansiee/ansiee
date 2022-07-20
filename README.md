@@ -1,4 +1,4 @@
-###  Olaa, seja bem-vindo ao meu perfil, eu sou a Giovanna Oliveira ou Ansie, estudante de TI!
+###  Olaa, eu sou a Giovanna Oliveira ou Ansie, estudante de TI!
 <br/>
 - 🍡 | Técnico em Informática para Internet 2/3 <br/>
 - 🍥 | Estudando HTML e CSS <br/>
