@@ -25,6 +25,3 @@
 ![Snake animation](https://github.com/ansiee/ansiee/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-
-
-<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansiee&layout=compact&langs_count=7&theme=tokyonight&text_color=FF9FC7&bg_color=54168600&title_color=FFA2CC&border_color=FFB4DB"/>
