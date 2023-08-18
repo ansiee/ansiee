@@ -1,6 +1,6 @@
 ###  Olaa, eu sou a Giovanna Oliveira ou Ansie, estudante de TI!
 <br/>
-- 🍡 | Técnico em Informática para Internet 2/3 <br/>
+- 🍡 | Cursando Técnico em Informática para Internet 3/3 <br/>
 - 🍥 | Estudando HTML, CSS, JavaScript e Python <br/>
 - 🍙 | Pronomes Ela/dela
 <br/>
