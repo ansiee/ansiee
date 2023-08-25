@@ -13,7 +13,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://picasion.com/download/f148472999e39720a8128d5c15002bf1/](https://im5.ezgif.com/tmp/ezgif-5-a07877bd4a.gif">
+  <img align="right" alt="Gio-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1105575210326962188/1144776222199533639/ezgif-5-a07877bd4a.gif?width=468&height=468">
   
   ##
   
