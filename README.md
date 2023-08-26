@@ -3,10 +3,14 @@
 
 <br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Giovanna+Oliveira;I'm+17+years+old;I'm+from+Brazil;:%29)](https://git.io/typing-svg)
 
+<br>
+<br>
+<br>
+<br>
+
 <div style="display: inline_block"> <br>
 
 <img align="right" alt="Gio-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1105575210326962188/1144776222199533639/ezgif-5-a07877bd4a.gif?width=468&height=468"><br>
-<br>
 <br>
 <br>
 ##
